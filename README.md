@@ -4,7 +4,7 @@
 
 ### 🖥 Sobre o Projeto
 - Aplicação desenvolvida para praticar a sintaxe do .NET C#;
-- Desenvolvi um cronômetro que realiza sua contagem em segundos ou minutos, deleguei as funcionalidades em Funções com Menu, PreStart, Start e Saída do programa.
+- Desenvolvi um cronômetro que realiza sua contagem em segundos ou minutos, deleguei as funcionalidades em Funções como Menu, PreStart, Start e Saída do programa.
 - Aplicação para console.
 
 ### 🌟 Tecnologias utilizadas
